@@ -4,30 +4,118 @@
   "description": "Teste os seus conhecimentos sobre a série Vikings",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
+      "image": "https://i.pinimg.com/originals/71/79/4a/71794a2a01b99898727365fde63b31ab.gif",
+      "title": "Quais os dois países que deram origem a série Vikings?",
       "description": "Essa é pra aquecer",
       "answer": 2,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Nova Zelândia e Inglaterra.",
+        "Finlândia e Irlanda.",
+        "Canada e Irlanda.",
+        "Russia e Dinamarca."
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
+      "image": "https://i.pinimg.com/originals/e5/67/d4/e567d421f8f29a2126deff7cdf1822b4.gif",
+      "title": "Qual o nome da Música tema da série?",
       "description": "Faz tempo em haha",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "If I Had a Heart",
+         "Vikings",
+         "Old Age",
+         "If I had a voice, I would sing"
+      ]
+    },
+    {
+      "image": "https://media3.giphy.com/media/IeXoLjRPLh0G2FlQ1Z/giphy.gif",
+      "title": "Em que ano começou a primeira temporada e em que ano houve a estréia da última temporada de Vikings?",
+      "description": "Faz tempo em haha",
+      "answer": 3,
+      "alternatives": [
+         "2011-2014",
+         "2013-2015",
+         "2010-2016",
+         "2013-2016"
+      ]
+    },
+    {
+      "image": "https://4.bp.blogspot.com/-kHh8l8HIlNQ/VyOrcEF3w6I/AAAAAAAAT2Q/DK-HosleWNshkS-xZ6fAGjJ4KzhVm_O6wCLcB/s1600/Vikings%2Bgif%2B1.gif",
+      "title": "Em que época a Era Viking se passa?",
+      "description": "Faz tempo em haha",
+      "answer": 0,
+      "alternatives": [
+         "No fim do VII século.",
+         "Século XVIII.",
+         "Se passa no meio do século XV.",
+         "Século IV foi o inicio da história."
+      ]
+    },
+    {
+      "image": "https://media0.giphy.com/media/ToMjGpDZ848ALkeEVC8/giphy.gif",
+      "title": "Qual a forma de agradecimento ou ritual ao vidente pelas previsões feitas?",
+      "description": "Faz tempo em haha",
+      "answer": 1,
+      "alternatives": [
+         "Troca de favores.",
+         "Lamber a mão dele.",
+         "Uma moeda.",
+         "Ossos ou adornos para coleção."
+      ]
+    },
+    {
+      "image": "https://giffiles.alphacoders.com/492/49235.gif",
+      "title": "Por que Ragnar e Lagertha se separam?",
+      "description": "Faz tempo em haha",
+      "answer": 3,
+      "alternatives": [
+         "Ela sente inveja do seu reino.",
+         "Eles são obrigados porque ela herda um reino distante.",
+         "Ela descobre que ele tem um filho com outra de um colonia vizinha.",
+         "Ela vai embora porque nao suporta a presença da amante morar na casa dela."
+      ]
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkWJbRwZkx4Gm0S9Ebf0LAvuljNLj0ybP9ww&usqp=CAU",
+      "title": "Qual o espólio que Ragnar escolhe em sua primeira viagem?",
+      "description": "Faz tempo em haha",
+      "answer": 2,
+      "alternatives": [
+         "Ficar com o barco construído por Floki para voltar a navegar.",
+         "Escolhe moedas para pagar seus tripulantes.",
+         "Escolhe um escravo.",
+         "Escolhe uma concubina nobre."
+      ]
+    },
+    {
+      "image": "https://images.amcnetworks.com/amctv.pt/wp-content/uploads/2017/03/Vikings-amcpt-blog-1.gif",
+      "title": "Qual o nome da colonia/cidade de Ragnar como rei?",
+      "description": "Faz tempo em haha",
+      "answer": 3,
+      "alternatives": [
+         "Merci.",
+         "Aelle.",
+         "Wesses.",
+         "Kattegat."
+      ]
+    },
+    {
+      "image": "data:image/jpeg;base64,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",
+      "title": "Qual a última nação na terceira temporada atacada por Ragnar?",
+      "description": "Faz tempo em haha",
+      "answer": 1,
+      "alternatives": [
+         "Inglaterra.",
+         "França.",
+         "Itália.",
+         "Irlanda.",
+         "Noruega."
       ]
     }
   ],
   "external": [
-    ""
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
   ],
   "theme": {
     "colors": {
