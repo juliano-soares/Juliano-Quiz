@@ -1,7 +1,5 @@
-/* eslint-disable react/no-array-index-key */
-/* eslint-disable jsx-a11y/alt-text */
-/* eslint-disable no-unused-vars */
-/* eslint-disable react/prop-types */
+/*
+
 import React from "react";
 import fs from "fs";
 import NextImage from "next/image";
@@ -119,3 +117,4 @@ export async function getStaticProps() {
     },
   };
 }
+*/
