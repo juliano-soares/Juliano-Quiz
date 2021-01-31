@@ -37,4 +37,4 @@
 
 - [ ] Desafio do Paulo: Refatorar a expressão regular que usamos para customizar os links dos quizes externos nos botões, para que funcionem em todos os corner cases.
 - [ ] Desafio do Soltinho: Reaproveitar os componentes da página de quiz para montar a página do quiz externo.
-- [ ]Desafio de Ju: Deixar os botões para os quizes da galera desabilitados enquanto o usuário não preencher o nome no input.
+- [ ] Desafio de Ju: Deixar os botões para os quizes da galera desabilitados enquanto o usuário não preencher o nome no input.
